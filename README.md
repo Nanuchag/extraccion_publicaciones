@@ -136,3 +136,5 @@ En caso de error, informa el problema y finaliza con un código de salida distin
 JSONPlaceholder: <https://jsonplaceholder.typicode.com/>
 
 Endpoint: `GET https://jsonplaceholder.typicode.com/posts?_limit=10`
+
+
