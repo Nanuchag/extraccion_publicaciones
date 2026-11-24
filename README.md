@@ -30,8 +30,8 @@ pre-entrega-4-api/
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/USUARIO/pre-entrega-4-api.git
-   cd pre-entrega-4-api
+   git clone https://github.com/Nanuchag/extraccion_publicaciones
+   cd extraccion_publicaciones
    ```
 
 2. Crear y activar un entorno virtual (recomendado):
